@@ -6,10 +6,10 @@
 ### <div align="center">I'm Jhony, a full-time full-stack developer! 👨‍💻 Working since 2017 🚀</div>  
   
 
-- 🔭 I’m currently working on Angular and Java projects  
+- 🔭 I’m currently a working on Angular and Java projects 
   
 
-- 🌱 I’m currently learning Flutter, Docker and Kubernetes  
+- 🌱 I’m currently learning DevOps
   
 
 - ❓ Ask me about anything related to Java and related technologies  
