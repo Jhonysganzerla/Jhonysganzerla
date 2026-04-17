@@ -1,22 +1,19 @@
 
   
 
-### <div align="center">I'm Jhony, a full-time full-stack developer! 👨‍💻 Working since 2017 🚀</div>  
+  ### <div align="center">I'm Jhony, a full-time full-stack developer! 👨‍💻 Working since 2014 🚀</div>  
   
 
-- 🔭 I’m currently a working on Angular and Java projects 
+- 🔭 I’m currently working on Angular and Java projects, well, now IA is doing it for me.
   
 
-- 🌱 I’m currently learning DevOps
-  
-
-- ❓ Ask me about anything related to Java and related technologies  
+- 🌱 Currently pursuing a Postgraduate Specialization in Applied Generative AI (IAGA) at UTFPR. Focusing on building Autonomous Agents, LLM implementation, LLMOps, and AI Governance to drive innovation through advanced AI solutions.
   
 
 <br/>  
 
 
-## My Skill Set  
+## My Skill Set - last update 2020 (I can do more than that now)
 <table><tr><td valign="top" width="33%">
 
 
