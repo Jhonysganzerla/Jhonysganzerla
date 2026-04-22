@@ -119,15 +119,6 @@ const jhony: Developer = {
 ---
 
 
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=jhonysganzerla&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
-</div>
-
----
-
-
 ## 🚀 What I'm Up To
 
 ```
