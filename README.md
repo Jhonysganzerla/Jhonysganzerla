@@ -1,85 +1,162 @@
+<div align="center">
 
-  
+```
+╔══════════════════════════════════════════════════════════╗
+║  Hello, World! I'm                                       ║
+║                                                          ║
+║      ██╗██╗  ██╗ ██████╗ ███╗   ██╗██╗   ██╗            ║
+║      ██║██║  ██║██╔═══██╗████╗  ██║╚██╗ ██╔╝            ║
+║      ██║███████║██║   ██║██╔██╗ ██║ ╚████╔╝             ║
+║  ██  ██║██╔══██║██║   ██║██║╚██╗██║  ╚██╔╝              ║
+║  ╚████╔╝██║  ██║╚██████╔╝██║ ╚████║   ██║               ║
+║   ╚═══╝ ╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═══╝   ╚═╝               ║
+║                                                          ║
+║         Full-Stack Developer • AI Engineer               ║
+╚══════════════════════════════════════════════════════════╝
+```
 
-  ### <div align="center">I'm Jhony, a full-time full-stack developer! 👨‍💻 Working since 2014 🚀</div>  
-  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+since+2014+%F0%9F%9A%80;Angular+%2B+Java+%2B+Spring+Boot+Expert;Postgrad+in+Applied+Generative+AI;Building+Autonomous+Agents+%26+LLMs;10%2B+years+shipping+production+code)](https://git.io/typing-svg)
 
-- 🔭 I’m currently working on Angular and Java projects, well, now IA is doing it for me.
-  
+<img src="https://komarev.com/ghpvc/?username=jhonysganzerla&style=for-the-badge&color=00d9ff&label=PROFILE+VIEWS" />
 
-- 🌱 Currently pursuing a Postgraduate Specialization in Applied Generative AI (IAGA) at UTFPR. Focusing on building Autonomous Agents, LLM implementation, LLMOps, and AI Governance to drive innovation through advanced AI solutions.
-  
-
-<br/>  
-
-
-## My Skill Set - last update 2020 (I can do more than that now)
-<table><tr><td valign="top" width="33%">
-
-
-
-### Frontend  
-<div align="center">  
-<a href="https://angular.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/angularjs-original.svg" alt="Angular" height="50" /></a>  
-<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
-<a href="https://dart.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dartlang-icon.svg" alt="Dart" height="50" /></a>  
-<a href="https://jquery.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" height="50" /></a>  
-<a href="https://sass-lang.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="50" /></a>  
 </div>
 
-</td><td valign="top" width="33%">
+---
 
+## 👨‍💻 About Me
 
+```typescript
+const jhony: Developer = {
+  name:        "Jhony Sganzerla",
+  location:    "Paraná, Brazil 🇧🇷",
+  experience:  "10+ years (since 2014)",
+  currentRole: "Full-Stack Developer",
+  education:   "Postgrad in Applied Generative AI @ UTFPR",
 
-### Backend  
-<div align="center">  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
-<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
-<a href="https://www.nginx.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-<a href="https://redux.js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" /></a>  
-<a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>  
-<a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /></a>  
-<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" /></a>  
-<a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>  
+  focus: [
+    "Angular + Java enterprise applications",
+    "Autonomous AI Agents",
+    "LLM Implementation & LLMOps",
+    "AI Governance & responsible AI",
+  ],
+
+  currentlyLearning: [
+    "Advanced RAG pipelines",
+    "Multi-agent systems",
+    "MLOps & AI infrastructure",
+  ],
+
+  funFact: "I still write the code. The AI just helps me ship faster. 😄",
+};
+```
+
+---
+
+## 🧠 AI & Emerging Tech Stack
+
+> Currently pursuing a **Postgraduate Specialization in Applied Generative AI (IAGA) at UTFPR**
+
+<div align="center">
+
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Anthropic](https://img.shields.io/badge/Anthropic%20Claude-CC785C?style=for-the-badge&logo=anthropic&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+**Areas:** Autonomous Agents · RAG · LLMOps · AI Governance · Prompt Engineering · Fine-tuning
+
 </div>
 
-</td></tr></table>  
+---
 
-<br/>  
+## 🛠️ Full-Stack Expertise
+
+<table>
+<tr>
+<td valign="top" width="33%">
+
+### 🎨 Frontend
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+
+</td>
+<td valign="top" width="33%">
+
+### ⚙️ Backend
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+
+</td>
+<td valign="top" width="33%">
+
+### 🗄️ Data & DevOps
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+</td>
+</tr>
+</table>
+
+---
 
 
-## Connect with me  
 <div align="center">
-<a href="https://github.com/jhonysganzerla" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/jhonysganzerla" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.facebook.com/jhonysganzerla" target="_blank">
-<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
-</a>
-<a href="https://instagram.com/jhonysganzerla" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>  
-</div>  
-  
 
-<br/>  
+[![GitHub Streak](https://streak-stats.demolab.com?user=jhonysganzerla&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+
+## 🚀 What I'm Up To
+
+```
+🎓  Postgrad in Applied Generative AI @ UTFPR (in progress)
+🤖  Building Autonomous Agents with LLMs
+⚙️  Working on Angular + Java production systems
+📚  Studying LLMOps, AI Governance & Multi-agent architectures
+🌎  Based in Paraná, Brazil
+```
+
+---
+
+## 🤝 Connect with Me
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=jhonysganzerla&&style=flat-square" align="center" />
-</div>  
-  
 
-<br/>  
+[![GitHub](https://img.shields.io/badge/GitHub-jhonysganzerla-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jhonysganzerla)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-jhonysganzerla-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jhonysganzerla)
+[![Instagram](https://img.shields.io/badge/Instagram-jhonysganzerla-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/jhonysganzerla)
+[![Facebook](https://img.shields.io/badge/Facebook-jhonysganzerla-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/jhonysganzerla)
 
+</div>
 
-<br />
+---
+
+<div align="center">
+
+*"Anyone can use AI to code, I can explain that code"* ✍️
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00d9ff&height=100&section=footer"/>
+
+</div>
